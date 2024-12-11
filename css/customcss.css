@@ -1,0 +1,29 @@
+h1{
+    color:black;
+}
+
+body{
+    background-color: rgb(205, 246, 255);
+}
+
+.Curry{
+    color:goldenrod;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: xx-large;
+    padding:5px;
+}
+.Harden{
+    font-family: sans-serif;
+    font-size: x-large;
+    text-decoration: underline;
+    margin: 25px;
+}
+.Allen{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: large;
+    margin-left: 45px;
+}
+.scratchLink{
+    top: 10px;
+    left: 500px;
+}
